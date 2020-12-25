@@ -1,4 +1,4 @@
-package com.example.springboot.demo.mq;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
